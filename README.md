@@ -1,4 +1,4 @@
-# Sales-Insights-Using-PowerBI
+# Sales-Insights-Using-Tableau
 Data Analysis Power BI project for predicting sales insights
 
 
