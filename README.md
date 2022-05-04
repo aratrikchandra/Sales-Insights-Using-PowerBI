@@ -3,10 +3,10 @@ Data Analysis Power BI project for predicting sales insights
 
 
 
-Tools Used:
-Python
-Google Colab Notebook
-Pandas
-SQL
-Pandas
+#Tools Used:
+1.Python
+2.Google Colab Notebook
+3.Pandas
+4.SQL
+5.Pandas
 
